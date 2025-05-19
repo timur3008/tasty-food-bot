@@ -1,5 +1,5 @@
 from aiogram import Router, F
-from aiogram.types import CallbackQuery, Message, InputMediaPhoto
+from aiogram.types import CallbackQuery, InputMediaPhoto
 
 from keyboards.inline import (
     get_one_category_kb,

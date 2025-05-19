@@ -1,6 +1,6 @@
 from typing import Any
 from aiogram import Router, F
-from aiogram.types import CallbackQuery, Message, InputMediaPhoto
+from aiogram.types import CallbackQuery
 
 from database.database import purchases_repo
 

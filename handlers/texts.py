@@ -1,5 +1,5 @@
 from aiogram import Router, F
-from aiogram.types import Message, InputMediaPhoto
+from aiogram.types import Message
 
 from keyboards.inline import categories_keyboard, get_purchases_kb, get_history_kb
 
